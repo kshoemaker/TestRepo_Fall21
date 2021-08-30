@@ -1,4 +1,5 @@
 raindrops on roses. 
+<<<<<<< HEAD
 
 
 EVEN MORE CHANGES
@@ -7,3 +8,6 @@ EDITING FROM THE BROWSER
 
 
 Making changes in the branch. Deleting the kittens
+=======
+whiskers on kittens.
+>>>>>>> parent of e1bdd57 (Update FavoriteThings.txt)
