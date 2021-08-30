@@ -1,13 +1,21 @@
 raindrops on roses. 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+whiskers on kittens.
+>>>>>>> parent of c47c418 (Update FavoriteThings.txt)
 
+A few more changes to this file. 
 
 EVEN MORE CHANGES
 
 EDITING FROM THE BROWSER 
+<<<<<<< HEAD
 
 
 Making changes in the branch. Deleting the kittens
 =======
 whiskers on kittens.
 >>>>>>> parent of e1bdd57 (Update FavoriteThings.txt)
+=======
+>>>>>>> parent of c47c418 (Update FavoriteThings.txt)
