@@ -1,8 +1,9 @@
 raindrops on roses. 
-whiskers on kittens.
 
-A few more changes to this file. 
 
 EVEN MORE CHANGES
 
 EDITING FROM THE BROWSER 
+
+
+Making changes in the branch. Deleting the kittens
