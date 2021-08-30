@@ -4,3 +4,5 @@ whiskers on kittens.
 A few more changes to this file. 
 
 EVEN MORE CHANGES
+
+EDITING FROM THE BROWSER 
