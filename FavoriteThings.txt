@@ -3,6 +3,8 @@ raindrops on roses.
 <<<<<<< HEAD
 =======
 whiskers on kittens.
+
+copper kettles and warm woolen mittens. 
 >>>>>>> parent of c47c418 (Update FavoriteThings.txt)
 
 A few more changes to this file. 
@@ -19,3 +21,4 @@ whiskers on kittens.
 >>>>>>> parent of e1bdd57 (Update FavoriteThings.txt)
 =======
 >>>>>>> parent of c47c418 (Update FavoriteThings.txt)
+
